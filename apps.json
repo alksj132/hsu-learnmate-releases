@@ -1,0 +1,26 @@
+{
+  "name": "HSU 러닝메이트",
+  "identifier": "kr.hsu.learnmate.source",
+  "subtitle": "한성대 e-class 학습 도우미",
+  "iconURL": "https://raw.githubusercontent.com/alksj132/hsu-learnmate-releases/main/icon.png",
+  "sourceURL": "https://raw.githubusercontent.com/alksj132/hsu-learnmate-releases/main/apps.json",
+  "apps": [
+    {
+      "name": "HSU 러닝메이트",
+      "bundleIdentifier": "kr.hsu.learnmate",
+      "developerName": "alksj132",
+      "subtitle": "한성대 e-class 학습 도우미",
+      "localizedDescription": "한성대 e-class의 강의 출석, 과제 마감, 퀴즈·시험 일정을 한 곳에서 확인하는 비공식 개인용 앱입니다.",
+      "iconURL": "https://raw.githubusercontent.com/alksj132/hsu-learnmate-releases/main/icon.png",
+      "tintColor": "4f6ef7",
+      "category": "utilities",
+      "screenshotURLs": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
