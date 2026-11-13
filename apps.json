@@ -15,11 +15,24 @@
       "tintColor": "4f6ef7",
       "category": "utilities",
       "screenshotURLs": [],
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.0.1",
+          "date": "2026-11-13T12:44:29.729Z",
+          "localizedDescription": "재생 시작 속도 개선, 백그라운드 재생",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.1/HSU-LearnMate-1.0.1.ipa",
+          "size": 12025683
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "version": "1.0.1",
+      "versionDate": "2026-11-13T12:44:29.729Z",
+      "versionDescription": "재생 시작 속도 개선, 백그라운드 재생",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.1/HSU-LearnMate-1.0.1.ipa",
+      "size": 12025683
     }
   ],
   "news": []
