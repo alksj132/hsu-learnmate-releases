@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.5",
+          "date": "2026-11-15T15:13:04.966Z",
+          "localizedDescription": "실행 속도 개선(저장된 화면 즉시 표시, 탭 전환, 수집 단계 단축), 마감 목록 날짜별 묶음, 플레이어 기본 작게",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.5/HSU-LearnMate-1.0.5.ipa",
+          "size": 12037663
+        },
+        {
           "version": "1.0.4",
           "date": "2026-11-15T14:46:29.921Z",
           "localizedDescription": "다음 강의로 자동 넘김 개선, 무음 모드, 진단 기록 추가",
@@ -49,11 +56,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.4",
-      "versionDate": "2026-11-15T14:46:29.921Z",
-      "versionDescription": "다음 강의로 자동 넘김 개선, 무음 모드, 진단 기록 추가",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.4/HSU-LearnMate-1.0.4.ipa",
-      "size": 12033488
+      "version": "1.0.5",
+      "versionDate": "2026-11-15T15:13:04.966Z",
+      "versionDescription": "실행 속도 개선(저장된 화면 즉시 표시, 탭 전환, 수집 단계 단축), 마감 목록 날짜별 묶음, 플레이어 기본 작게",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.5/HSU-LearnMate-1.0.5.ipa",
+      "size": 12037663
     }
   ],
   "news": []
