@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.6",
+          "date": "2026-11-15T15:24:17.008Z",
+          "localizedDescription": "애플 스타일 디자인(리퀴드 글래스 탭 바, 시스템 색상), 강의 후 빠른 부분 새로고침",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.6/HSU-LearnMate-1.0.6.ipa",
+          "size": 12079421
+        },
+        {
           "version": "1.0.5",
           "date": "2026-11-15T15:13:04.966Z",
           "localizedDescription": "실행 속도 개선(저장된 화면 즉시 표시, 탭 전환, 수집 단계 단축), 마감 목록 날짜별 묶음, 플레이어 기본 작게",
@@ -56,11 +63,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.5",
-      "versionDate": "2026-11-15T15:13:04.966Z",
-      "versionDescription": "실행 속도 개선(저장된 화면 즉시 표시, 탭 전환, 수집 단계 단축), 마감 목록 날짜별 묶음, 플레이어 기본 작게",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.5/HSU-LearnMate-1.0.5.ipa",
-      "size": 12037663
+      "version": "1.0.6",
+      "versionDate": "2026-11-15T15:24:17.008Z",
+      "versionDescription": "애플 스타일 디자인(리퀴드 글래스 탭 바, 시스템 색상), 강의 후 빠른 부분 새로고침",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.6/HSU-LearnMate-1.0.6.ipa",
+      "size": 12079421
     }
   ],
   "news": []
