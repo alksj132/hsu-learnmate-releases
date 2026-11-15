@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.7",
+          "date": "2026-11-15T15:33:37.217Z",
+          "localizedDescription": "디자인 정리: 색 통일, 이번 주 진행률, 이모지 제거, 부드러운 모션과 촉각 반응, 강의 완료 즉시 반영",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.7/HSU-LearnMate-1.0.7.ipa",
+          "size": 12095830
+        },
+        {
           "version": "1.0.6",
           "date": "2026-11-15T15:24:17.008Z",
           "localizedDescription": "애플 스타일 디자인(리퀴드 글래스 탭 바, 시스템 색상), 강의 후 빠른 부분 새로고침",
@@ -63,11 +70,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.6",
-      "versionDate": "2026-11-15T15:24:17.008Z",
-      "versionDescription": "애플 스타일 디자인(리퀴드 글래스 탭 바, 시스템 색상), 강의 후 빠른 부분 새로고침",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.6/HSU-LearnMate-1.0.6.ipa",
-      "size": 12079421
+      "version": "1.0.7",
+      "versionDate": "2026-11-15T15:33:37.217Z",
+      "versionDescription": "디자인 정리: 색 통일, 이번 주 진행률, 이모지 제거, 부드러운 모션과 촉각 반응, 강의 완료 즉시 반영",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.7/HSU-LearnMate-1.0.7.ipa",
+      "size": 12095830
     }
   ],
   "news": []
