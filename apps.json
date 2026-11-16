@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.9",
+          "date": "2026-11-16T09:36:17.640Z",
+          "localizedDescription": "앱으로 돌아오면 자동으로 다시 불러오기, e-class 확인(본인인증) 화면 감지, 진단 기록 보강",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.9/HSU-LearnMate-1.0.9.ipa",
+          "size": 12098752
+        },
+        {
           "version": "1.0.8",
           "date": "2026-11-16T09:30:24.383Z",
           "localizedDescription": "설정에서 Gemini 모델 선택이 안 되던 문제 수정",
@@ -77,11 +84,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.8",
-      "versionDate": "2026-11-16T09:30:24.383Z",
-      "versionDescription": "설정에서 Gemini 모델 선택이 안 되던 문제 수정",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.8/HSU-LearnMate-1.0.8.ipa",
-      "size": 12096972
+      "version": "1.0.9",
+      "versionDate": "2026-11-16T09:36:17.640Z",
+      "versionDescription": "앱으로 돌아오면 자동으로 다시 불러오기, e-class 확인(본인인증) 화면 감지, 진단 기록 보강",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.9/HSU-LearnMate-1.0.9.ipa",
+      "size": 12098752
     },
     {
       "name": "My Arc",
