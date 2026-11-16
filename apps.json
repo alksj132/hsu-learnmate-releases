@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.8",
+          "date": "2026-11-16T09:30:24.383Z",
+          "localizedDescription": "설정에서 Gemini 모델 선택이 안 되던 문제 수정",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.8/HSU-LearnMate-1.0.8.ipa",
+          "size": 12096972
+        },
+        {
           "version": "1.0.7",
           "date": "2026-11-15T15:33:37.217Z",
           "localizedDescription": "디자인 정리: 색 통일, 이번 주 진행률, 이모지 제거, 부드러운 모션과 촉각 반응, 강의 완료 즉시 반영",
@@ -70,11 +77,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.7",
-      "versionDate": "2026-11-15T15:33:37.217Z",
-      "versionDescription": "디자인 정리: 색 통일, 이번 주 진행률, 이모지 제거, 부드러운 모션과 촉각 반응, 강의 완료 즉시 반영",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.7/HSU-LearnMate-1.0.7.ipa",
-      "size": 12095830
+      "version": "1.0.8",
+      "versionDate": "2026-11-16T09:30:24.383Z",
+      "versionDescription": "설정에서 Gemini 모델 선택이 안 되던 문제 수정",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.8/HSU-LearnMate-1.0.8.ipa",
+      "size": 12096972
     },
     {
       "name": "My Arc",
