@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.10",
+          "date": "2026-11-16T09:57:00.741Z",
+          "localizedDescription": "AI 모델 자동 선택(막힌 모델은 건너뜀), 설정에 버전 표시, AI 진단 기록",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.10/HSU-LearnMate-1.0.10.ipa",
+          "size": 12100239
+        },
+        {
           "version": "1.0.9",
           "date": "2026-11-16T09:36:17.640Z",
           "localizedDescription": "앱으로 돌아오면 자동으로 다시 불러오기, e-class 확인(본인인증) 화면 감지, 진단 기록 보강",
@@ -84,11 +91,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.9",
-      "versionDate": "2026-11-16T09:36:17.640Z",
-      "versionDescription": "앱으로 돌아오면 자동으로 다시 불러오기, e-class 확인(본인인증) 화면 감지, 진단 기록 보강",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.9/HSU-LearnMate-1.0.9.ipa",
-      "size": 12098752
+      "version": "1.0.10",
+      "versionDate": "2026-11-16T09:57:00.741Z",
+      "versionDescription": "AI 모델 자동 선택(막힌 모델은 건너뜀), 설정에 버전 표시, AI 진단 기록",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/v1.0.10/HSU-LearnMate-1.0.10.ipa",
+      "size": 12100239
     },
     {
       "name": "My Arc",
