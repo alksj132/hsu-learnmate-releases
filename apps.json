@@ -109,6 +109,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.5",
+          "date": "2026-11-16T14:13:42.596Z",
+          "localizedDescription": "Gemini 모델 순서 개선(버전 순), 무료 한도 없는 모델 자동 건너뛰기, 오류 문구 정리",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.5/MyArc-1.0.5.ipa",
+          "size": 13295298
+        },
+        {
           "version": "1.0.4",
           "date": "2026-11-16T14:01:36.003Z",
           "localizedDescription": "Gemini 연결 무한 로딩 수정: 모든 단계에 시간 제한, 진행 상황 표시",
@@ -144,11 +151,11 @@
           "size": 13102442
         }
       ],
-      "version": "1.0.4",
-      "versionDate": "2026-11-16T14:01:36.003Z",
-      "versionDescription": "Gemini 연결 무한 로딩 수정: 모든 단계에 시간 제한, 진행 상황 표시",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.4/MyArc-1.0.4.ipa",
-      "size": 13292535
+      "version": "1.0.5",
+      "versionDate": "2026-11-16T14:13:42.596Z",
+      "versionDescription": "Gemini 모델 순서 개선(버전 순), 무료 한도 없는 모델 자동 건너뛰기, 오류 문구 정리",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.5/MyArc-1.0.5.ipa",
+      "size": 13295298
     }
   ],
   "news": []
