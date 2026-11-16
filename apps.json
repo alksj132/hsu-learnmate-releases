@@ -109,6 +109,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.4",
+          "date": "2026-11-16T14:01:36.003Z",
+          "localizedDescription": "Gemini 연결 무한 로딩 수정: 모든 단계에 시간 제한, 진행 상황 표시",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.4/MyArc-1.0.4.ipa",
+          "size": 13292535
+        },
+        {
           "version": "1.0.3",
           "date": "2026-11-16T13:50:52.330Z",
           "localizedDescription": "운동 직접 입력, 칼로리 자동 계산(심박·속도·운동 강도), 신체 정보 설정",
@@ -137,11 +144,11 @@
           "size": 13102442
         }
       ],
-      "version": "1.0.3",
-      "versionDate": "2026-11-16T13:50:52.330Z",
-      "versionDescription": "운동 직접 입력, 칼로리 자동 계산(심박·속도·운동 강도), 신체 정보 설정",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.3/MyArc-1.0.3.ipa",
-      "size": 13291733
+      "version": "1.0.4",
+      "versionDate": "2026-11-16T14:01:36.003Z",
+      "versionDescription": "Gemini 연결 무한 로딩 수정: 모든 단계에 시간 제한, 진행 상황 표시",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.4/MyArc-1.0.4.ipa",
+      "size": 13292535
     }
   ],
   "news": []
