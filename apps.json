@@ -77,29 +77,29 @@
       "size": 12095830
     },
     {
-      "name": "FitLog",
-      "bundleIdentifier": "kr.alksj.fitlog",
+      "name": "My Arc",
+      "bundleIdentifier": "kr.alksj.myarc",
       "developerName": "alksj132",
       "subtitle": "체중·운동·식단 기록",
       "localizedDescription": "공복 체중, 기구별 운동, 식단을 기록하고 건강 앱의 운동 시간·소모 칼로리를 함께 보는 개인용 앱입니다.",
-      "iconURL": "https://raw.githubusercontent.com/alksj132/hsu-learnmate-releases/main/fitlog-icon.png",
+      "iconURL": "https://raw.githubusercontent.com/alksj132/hsu-learnmate-releases/main/myarc-icon.png",
       "tintColor": "007AFF",
       "category": "health-and-fitness",
       "screenshotURLs": [],
       "versions": [
         {
           "version": "1.0.0",
-          "date": "2026-11-16T06:19:14.410Z",
+          "date": "2026-11-16T07:19:43.308Z",
           "localizedDescription": "첫 버전: 공복 체중 기록·알림·추이, 기구별 운동 기록과 AI 세트 추천, 식단 기록과 사진 칼로리, 건강 앱 운동 시간·칼로리",
-          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/fitlog-v1.0.0/FitLog-1.0.0.ipa",
-          "size": 13102672
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.0/MyArc-1.0.0.ipa",
+          "size": 13102442
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-11-16T06:19:14.410Z",
+      "versionDate": "2026-11-16T07:19:43.308Z",
       "versionDescription": "첫 버전: 공복 체중 기록·알림·추이, 기구별 운동 기록과 AI 세트 추천, 식단 기록과 사진 칼로리, 건강 앱 운동 시간·칼로리",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/fitlog-v1.0.0/FitLog-1.0.0.ipa",
-      "size": 13102672
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.0/MyArc-1.0.0.ipa",
+      "size": 13102442
     }
   ],
   "news": []
