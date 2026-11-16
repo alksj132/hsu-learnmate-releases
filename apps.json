@@ -109,6 +109,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.2",
+          "date": "2026-11-16T13:39:26.118Z",
+          "localizedDescription": "Gemini 연결 오류 수정, 건강 앱 오류 안내 개선",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.2/MyArc-1.0.2.ipa",
+          "size": 13285863
+        },
+        {
           "version": "1.0.1",
           "date": "2026-11-16T09:53:09.215Z",
           "localizedDescription": "앱 아이콘 변경 (검정 바탕 은빛 ARC)",
@@ -123,11 +130,11 @@
           "size": 13102442
         }
       ],
-      "version": "1.0.1",
-      "versionDate": "2026-11-16T09:53:09.215Z",
-      "versionDescription": "앱 아이콘 변경 (검정 바탕 은빛 ARC)",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.1/MyArc-1.0.1.ipa",
-      "size": 13283948
+      "version": "1.0.2",
+      "versionDate": "2026-11-16T13:39:26.118Z",
+      "versionDescription": "Gemini 연결 오류 수정, 건강 앱 오류 안내 개선",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.2/MyArc-1.0.2.ipa",
+      "size": 13285863
     }
   ],
   "news": []
