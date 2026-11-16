@@ -102,6 +102,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.1",
+          "date": "2026-11-16T09:53:09.215Z",
+          "localizedDescription": "앱 아이콘 변경 (검정 바탕 은빛 ARC)",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.1/MyArc-1.0.1.ipa",
+          "size": 13283948
+        },
+        {
           "version": "1.0.0",
           "date": "2026-11-16T07:19:43.308Z",
           "localizedDescription": "첫 버전: 공복 체중 기록·알림·추이, 기구별 운동 기록과 AI 세트 추천, 식단 기록과 사진 칼로리, 건강 앱 운동 시간·칼로리",
@@ -109,11 +116,11 @@
           "size": 13102442
         }
       ],
-      "version": "1.0.0",
-      "versionDate": "2026-11-16T07:19:43.308Z",
-      "versionDescription": "첫 버전: 공복 체중 기록·알림·추이, 기구별 운동 기록과 AI 세트 추천, 식단 기록과 사진 칼로리, 건강 앱 운동 시간·칼로리",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.0/MyArc-1.0.0.ipa",
-      "size": 13102442
+      "version": "1.0.1",
+      "versionDate": "2026-11-16T09:53:09.215Z",
+      "versionDescription": "앱 아이콘 변경 (검정 바탕 은빛 ARC)",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.1/MyArc-1.0.1.ipa",
+      "size": 13283948
     }
   ],
   "news": []
