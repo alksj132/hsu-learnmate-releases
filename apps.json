@@ -109,6 +109,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.20",
+          "date": "2026-11-17T07:40:01.877Z",
+          "localizedDescription": "세트 실패 표시(한 번 더 누르기), 운동 중 기구 추가에 검색·새 기구 등록, 꾹 눌러 루틴 순서 바꾸기",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.20/MyArc-1.0.20.ipa",
+          "size": 15555505
+        },
+        {
           "version": "1.0.19",
           "date": "2026-11-17T07:29:43.334Z",
           "localizedDescription": "운동 화면 뒤로가기(세트 없으면 시작 취소), 8스테이션·케이블·스미스 등 운동별 따로 기록",
@@ -170,20 +177,13 @@
           "localizedDescription": "탭바 리퀴드 글래스 누름 효과(출렁임) 복구, 고른 탭 유리 렌즈",
           "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.8/MyArc-1.0.8.ipa",
           "size": 13169034
-        },
-        {
-          "version": "1.0.6",
-          "date": "2026-11-17T02:40:52.833Z",
-          "localizedDescription": "흑백 미니멀 디자인, 기하학 로고, 오늘의 격언, 김포 브이짐 기구 78개 자동 등록",
-          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.6/MyArc-1.0.6.ipa",
-          "size": 13168032
         }
       ],
-      "version": "1.0.19",
-      "versionDate": "2026-11-17T07:29:43.334Z",
-      "versionDescription": "운동 화면 뒤로가기(세트 없으면 시작 취소), 8스테이션·케이블·스미스 등 운동별 따로 기록",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.19/MyArc-1.0.19.ipa",
-      "size": 15550033
+      "version": "1.0.20",
+      "versionDate": "2026-11-17T07:40:01.877Z",
+      "versionDescription": "세트 실패 표시(한 번 더 누르기), 운동 중 기구 추가에 검색·새 기구 등록, 꾹 눌러 루틴 순서 바꾸기",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.20/MyArc-1.0.20.ipa",
+      "size": 15555505
     }
   ],
   "news": []
