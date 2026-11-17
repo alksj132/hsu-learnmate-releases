@@ -109,6 +109,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.6",
+          "date": "2026-11-17T02:40:52.833Z",
+          "localizedDescription": "흑백 미니멀 디자인, 기하학 로고, 오늘의 격언, 김포 브이짐 기구 78개 자동 등록",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.6/MyArc-1.0.6.ipa",
+          "size": 13168032
+        },
+        {
           "version": "1.0.5",
           "date": "2026-11-16T14:13:42.596Z",
           "localizedDescription": "Gemini 모델 순서 개선(버전 순), 무료 한도 없는 모델 자동 건너뛰기, 오류 문구 정리",
@@ -151,11 +158,11 @@
           "size": 13102442
         }
       ],
-      "version": "1.0.5",
-      "versionDate": "2026-11-16T14:13:42.596Z",
-      "versionDescription": "Gemini 모델 순서 개선(버전 순), 무료 한도 없는 모델 자동 건너뛰기, 오류 문구 정리",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.5/MyArc-1.0.5.ipa",
-      "size": 13295298
+      "version": "1.0.6",
+      "versionDate": "2026-11-17T02:40:52.833Z",
+      "versionDescription": "흑백 미니멀 디자인, 기하학 로고, 오늘의 격언, 김포 브이짐 기구 78개 자동 등록",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.6/MyArc-1.0.6.ipa",
+      "size": 13168032
     }
   ],
   "news": []
