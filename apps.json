@@ -109,6 +109,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.14",
+          "date": "2026-11-17T06:05:51.652Z",
+          "localizedDescription": "적응형 TDEE 다이어트 코치·AI 식단 제안, 헬스장 모드(큰 숫자), 세트 체크 시 휴식 타이머, 보조 글씨 밝게",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.14/MyArc-1.0.14.ipa",
+          "size": 15397122
+        },
+        {
           "version": "1.0.13",
           "date": "2026-11-17T04:58:34.939Z",
           "localizedDescription": "운동 탭에서 바로 기구 추가·빼기, 검색, 새 기구 등록",
@@ -170,20 +177,13 @@
           "localizedDescription": "운동 직접 입력, 칼로리 자동 계산(심박·속도·운동 강도), 신체 정보 설정",
           "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.3/MyArc-1.0.3.ipa",
           "size": 13291733
-        },
-        {
-          "version": "1.0.2",
-          "date": "2026-11-16T13:39:26.118Z",
-          "localizedDescription": "Gemini 연결 오류 수정, 건강 앱 오류 안내 개선",
-          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.2/MyArc-1.0.2.ipa",
-          "size": 13285863
         }
       ],
-      "version": "1.0.13",
-      "versionDate": "2026-11-17T04:58:34.939Z",
-      "versionDescription": "운동 탭에서 바로 기구 추가·빼기, 검색, 새 기구 등록",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.13/MyArc-1.0.13.ipa",
-      "size": 15384682
+      "version": "1.0.14",
+      "versionDate": "2026-11-17T06:05:51.652Z",
+      "versionDescription": "적응형 TDEE 다이어트 코치·AI 식단 제안, 헬스장 모드(큰 숫자), 세트 체크 시 휴식 타이머, 보조 글씨 밝게",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.14/MyArc-1.0.14.ipa",
+      "size": 15397122
     }
   ],
   "news": []
