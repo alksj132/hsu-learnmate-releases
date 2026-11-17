@@ -109,6 +109,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.18",
+          "date": "2026-11-17T06:33:54.377Z",
+          "localizedDescription": "기구 회사 로고: 싸이벡스 공식 워드마크, 파나타 전체 로고, 로고 칸 넓힘",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.18/MyArc-1.0.18.ipa",
+          "size": 15543196
+        },
+        {
           "version": "1.0.15",
           "date": "2026-11-17T06:21:40.370Z",
           "localizedDescription": "기구 목록에 회사 배지, 부위 안에서 회사별 정렬",
@@ -170,20 +177,13 @@
           "localizedDescription": "Gemini 모델 순서 개선(버전 순), 무료 한도 없는 모델 자동 건너뛰기, 오류 문구 정리",
           "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.5/MyArc-1.0.5.ipa",
           "size": 13295298
-        },
-        {
-          "version": "1.0.4",
-          "date": "2026-11-16T14:01:36.003Z",
-          "localizedDescription": "Gemini 연결 무한 로딩 수정: 모든 단계에 시간 제한, 진행 상황 표시",
-          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.4/MyArc-1.0.4.ipa",
-          "size": 13292535
         }
       ],
-      "version": "1.0.15",
-      "versionDate": "2026-11-17T06:21:40.370Z",
-      "versionDescription": "기구 목록에 회사 배지, 부위 안에서 회사별 정렬",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.15/MyArc-1.0.15.ipa",
-      "size": 15399175
+      "version": "1.0.18",
+      "versionDate": "2026-11-17T06:33:54.377Z",
+      "versionDescription": "기구 회사 로고: 싸이벡스 공식 워드마크, 파나타 전체 로고, 로고 칸 넓힘",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.18/MyArc-1.0.18.ipa",
+      "size": 15543196
     }
   ],
   "news": []
