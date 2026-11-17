@@ -109,6 +109,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.21",
+          "date": "2026-11-17T07:49:17.566Z",
+          "localizedDescription": "휴식 타이머 켜기·끄기와 시간 직접 입력, 운동 중 새 기구 등록 버튼, 브랜드 자동완성·직접 적어도 같은 브랜드로 묶기",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.21/MyArc-1.0.21.ipa",
+          "size": 15559376
+        },
+        {
           "version": "1.0.20",
           "date": "2026-11-17T07:40:01.877Z",
           "localizedDescription": "세트 실패 표시(한 번 더 누르기), 운동 중 기구 추가에 검색·새 기구 등록, 꾹 눌러 루틴 순서 바꾸기",
@@ -170,20 +177,13 @@
           "localizedDescription": "식단 AI 분석: 음식 이름과 무게(g)를 적은 뒤에만 분석",
           "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.9/MyArc-1.0.9.ipa",
           "size": 13169547
-        },
-        {
-          "version": "1.0.8",
-          "date": "2026-11-17T03:38:45.240Z",
-          "localizedDescription": "탭바 리퀴드 글래스 누름 효과(출렁임) 복구, 고른 탭 유리 렌즈",
-          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.8/MyArc-1.0.8.ipa",
-          "size": 13169034
         }
       ],
-      "version": "1.0.20",
-      "versionDate": "2026-11-17T07:40:01.877Z",
-      "versionDescription": "세트 실패 표시(한 번 더 누르기), 운동 중 기구 추가에 검색·새 기구 등록, 꾹 눌러 루틴 순서 바꾸기",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.20/MyArc-1.0.20.ipa",
-      "size": 15555505
+      "version": "1.0.21",
+      "versionDate": "2026-11-17T07:49:17.566Z",
+      "versionDescription": "휴식 타이머 켜기·끄기와 시간 직접 입력, 운동 중 새 기구 등록 버튼, 브랜드 자동완성·직접 적어도 같은 브랜드로 묶기",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.21/MyArc-1.0.21.ipa",
+      "size": 15559376
     }
   ],
   "news": []
