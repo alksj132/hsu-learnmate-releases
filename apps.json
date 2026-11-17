@@ -109,6 +109,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.19",
+          "date": "2026-11-17T07:29:43.334Z",
+          "localizedDescription": "운동 화면 뒤로가기(세트 없으면 시작 취소), 8스테이션·케이블·스미스 등 운동별 따로 기록",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.19/MyArc-1.0.19.ipa",
+          "size": 15550033
+        },
+        {
           "version": "1.0.18",
           "date": "2026-11-17T06:33:54.377Z",
           "localizedDescription": "기구 회사 로고: 싸이벡스 공식 워드마크, 파나타 전체 로고, 로고 칸 넓힘",
@@ -170,20 +177,13 @@
           "localizedDescription": "흑백 미니멀 디자인, 기하학 로고, 오늘의 격언, 김포 브이짐 기구 78개 자동 등록",
           "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.6/MyArc-1.0.6.ipa",
           "size": 13168032
-        },
-        {
-          "version": "1.0.5",
-          "date": "2026-11-16T14:13:42.596Z",
-          "localizedDescription": "Gemini 모델 순서 개선(버전 순), 무료 한도 없는 모델 자동 건너뛰기, 오류 문구 정리",
-          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.5/MyArc-1.0.5.ipa",
-          "size": 13295298
         }
       ],
-      "version": "1.0.18",
-      "versionDate": "2026-11-17T06:33:54.377Z",
-      "versionDescription": "기구 회사 로고: 싸이벡스 공식 워드마크, 파나타 전체 로고, 로고 칸 넓힘",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.18/MyArc-1.0.18.ipa",
-      "size": 15543196
+      "version": "1.0.19",
+      "versionDate": "2026-11-17T07:29:43.334Z",
+      "versionDescription": "운동 화면 뒤로가기(세트 없으면 시작 취소), 8스테이션·케이블·스미스 등 운동별 따로 기록",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.19/MyArc-1.0.19.ipa",
+      "size": 15550033
     }
   ],
   "news": []
