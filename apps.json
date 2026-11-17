@@ -109,6 +109,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.15",
+          "date": "2026-11-17T06:21:40.370Z",
+          "localizedDescription": "기구 목록에 회사 배지, 부위 안에서 회사별 정렬",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.15/MyArc-1.0.15.ipa",
+          "size": 15399175
+        },
+        {
           "version": "1.0.14",
           "date": "2026-11-17T06:05:51.652Z",
           "localizedDescription": "적응형 TDEE 다이어트 코치·AI 식단 제안, 헬스장 모드(큰 숫자), 세트 체크 시 휴식 타이머, 보조 글씨 밝게",
@@ -170,20 +177,13 @@
           "localizedDescription": "Gemini 연결 무한 로딩 수정: 모든 단계에 시간 제한, 진행 상황 표시",
           "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.4/MyArc-1.0.4.ipa",
           "size": 13292535
-        },
-        {
-          "version": "1.0.3",
-          "date": "2026-11-16T13:50:52.330Z",
-          "localizedDescription": "운동 직접 입력, 칼로리 자동 계산(심박·속도·운동 강도), 신체 정보 설정",
-          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.3/MyArc-1.0.3.ipa",
-          "size": 13291733
         }
       ],
-      "version": "1.0.14",
-      "versionDate": "2026-11-17T06:05:51.652Z",
-      "versionDescription": "적응형 TDEE 다이어트 코치·AI 식단 제안, 헬스장 모드(큰 숫자), 세트 체크 시 휴식 타이머, 보조 글씨 밝게",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.14/MyArc-1.0.14.ipa",
-      "size": 15397122
+      "version": "1.0.15",
+      "versionDate": "2026-11-17T06:21:40.370Z",
+      "versionDescription": "기구 목록에 회사 배지, 부위 안에서 회사별 정렬",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.15/MyArc-1.0.15.ipa",
+      "size": 15399175
     }
   ],
   "news": []
