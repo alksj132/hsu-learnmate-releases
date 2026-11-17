@@ -109,6 +109,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.9",
+          "date": "2026-11-17T03:43:46.341Z",
+          "localizedDescription": "식단 AI 분석: 음식 이름과 무게(g)를 적은 뒤에만 분석",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.9/MyArc-1.0.9.ipa",
+          "size": 13169547
+        },
+        {
           "version": "1.0.8",
           "date": "2026-11-17T03:38:45.240Z",
           "localizedDescription": "탭바 리퀴드 글래스 누름 효과(출렁임) 복구, 고른 탭 유리 렌즈",
@@ -165,11 +172,11 @@
           "size": 13102442
         }
       ],
-      "version": "1.0.8",
-      "versionDate": "2026-11-17T03:38:45.240Z",
-      "versionDescription": "탭바 리퀴드 글래스 누름 효과(출렁임) 복구, 고른 탭 유리 렌즈",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.8/MyArc-1.0.8.ipa",
-      "size": 13169034
+      "version": "1.0.9",
+      "versionDate": "2026-11-17T03:43:46.341Z",
+      "versionDescription": "식단 AI 분석: 음식 이름과 무게(g)를 적은 뒤에만 분석",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.9/MyArc-1.0.9.ipa",
+      "size": 13169547
     }
   ],
   "news": []
