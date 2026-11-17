@@ -109,6 +109,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.25",
+          "date": "2026-11-17T09:36:27.491Z",
+          "localizedDescription": "운동 탭 루틴 실행/설정 분리, 시작·이어하기·마치기·더 하기, 분할·기구 건너뛰기, 시작 전 오늘 기구 편집, 운동 중 순서 바꾸기, 기타 먼저, 짐80 로고",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.25/MyArc-1.0.25.ipa",
+          "size": 15582365
+        },
+        {
           "version": "1.0.23",
           "date": "2026-11-17T09:10:31.786Z",
           "localizedDescription": "운동 기록을 루틴 설정 + 루틴 실행으로: 기구별 세트 수, 1주차 직접 입력(지난 기록 흐린 표시), 2주차부터 자동 채움, 루틴 진행 척도",
@@ -170,20 +177,13 @@
           "localizedDescription": "운동 탭에서 바로 기구 추가·빼기, 검색, 새 기구 등록",
           "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.13/MyArc-1.0.13.ipa",
           "size": 15384682
-        },
-        {
-          "version": "1.0.12",
-          "date": "2026-11-17T04:34:39.065Z",
-          "localizedDescription": "분할 부위 기구 먼저 보기(더보기), 체중 숫자 가운데 정렬, 운동 탭 아이콘 변경",
-          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.12/MyArc-1.0.12.ipa",
-          "size": 15381136
         }
       ],
-      "version": "1.0.23",
-      "versionDate": "2026-11-17T09:10:31.786Z",
-      "versionDescription": "운동 기록을 루틴 설정 + 루틴 실행으로: 기구별 세트 수, 1주차 직접 입력(지난 기록 흐린 표시), 2주차부터 자동 채움, 루틴 진행 척도",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.23/MyArc-1.0.23.ipa",
-      "size": 15563132
+      "version": "1.0.25",
+      "versionDate": "2026-11-17T09:36:27.491Z",
+      "versionDescription": "운동 탭 루틴 실행/설정 분리, 시작·이어하기·마치기·더 하기, 분할·기구 건너뛰기, 시작 전 오늘 기구 편집, 운동 중 순서 바꾸기, 기타 먼저, 짐80 로고",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.25/MyArc-1.0.25.ipa",
+      "size": 15582365
     }
   ],
   "news": []
