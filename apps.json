@@ -109,6 +109,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.12",
+          "date": "2026-11-17T04:34:39.065Z",
+          "localizedDescription": "분할 부위 기구 먼저 보기(더보기), 체중 숫자 가운데 정렬, 운동 탭 아이콘 변경",
+          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.12/MyArc-1.0.12.ipa",
+          "size": 15381136
+        },
+        {
           "version": "1.0.10",
           "date": "2026-11-17T04:02:57.338Z",
           "localizedDescription": "아이폰 기본 리퀴드 글래스 탭바로 교체, 사진만·사진+설명·이름+무게 식단 분석, 명언 105개를 열 때마다 바꿔 보여주기",
@@ -170,20 +177,13 @@
           "localizedDescription": "앱 아이콘 변경 (검정 바탕 은빛 ARC)",
           "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.1/MyArc-1.0.1.ipa",
           "size": 13283948
-        },
-        {
-          "version": "1.0.0",
-          "date": "2026-11-16T07:19:43.308Z",
-          "localizedDescription": "첫 버전: 공복 체중 기록·알림·추이, 기구별 운동 기록과 AI 세트 추천, 식단 기록과 사진 칼로리, 건강 앱 운동 시간·칼로리",
-          "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.0/MyArc-1.0.0.ipa",
-          "size": 13102442
         }
       ],
-      "version": "1.0.10",
-      "versionDate": "2026-11-17T04:02:57.338Z",
-      "versionDescription": "아이폰 기본 리퀴드 글래스 탭바로 교체, 사진만·사진+설명·이름+무게 식단 분석, 명언 105개를 열 때마다 바꿔 보여주기",
-      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.10/MyArc-1.0.10.ipa",
-      "size": 15378404
+      "version": "1.0.12",
+      "versionDate": "2026-11-17T04:34:39.065Z",
+      "versionDescription": "분할 부위 기구 먼저 보기(더보기), 체중 숫자 가운데 정렬, 운동 탭 아이콘 변경",
+      "downloadURL": "https://github.com/alksj132/hsu-learnmate-releases/releases/download/myarc-v1.0.12/MyArc-1.0.12.ipa",
+      "size": 15381136
     }
   ],
   "news": []
